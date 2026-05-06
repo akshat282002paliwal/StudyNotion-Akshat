@@ -1,6 +1,6 @@
 ﻿
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://study-notion-faizan.vercel.app/]
+:rocket: [Link to website][https://study-notion-Akshat.vercel.app/]
 
 
 ![Main Page](images/mainpage.png)
